@@ -13,11 +13,6 @@ This repository is designed to support academic learning and teaching of Operati
 - 💻 Practical exercises
 - 📂 Reference materials
 
----
-
-## 📁 Repository Structure
-
----
 
 ## 🧠 Topics Covered
 
