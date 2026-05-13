@@ -1,0 +1,2 @@
+Hello from the C program!
+This is a test of the write() system call.
